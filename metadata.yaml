@@ -1,0 +1,39 @@
+_repo: Suorin-tie-paras-b-Yksinaytoksinen-ilveily_73412
+_version: 0.0.1
+alternative_title: Der gerade Weg der beste. Finnish
+creator:
+  author:
+    agent_name: Kotzebue, August von
+    aliases:
+    - Kotzebue, August Friedrich Ferdinand von
+    - Von Kotzebue, August
+    - Kotzebue, A. von (August)
+    - Kotzebue, Augustus von
+    birthdate: 1761
+    deathdate: 1819
+    gutenberg_agent_id: '1502'
+    url: http://www.gutenberg.org/2009/agents/1502
+    wikipedia:
+    - https://de.wikipedia.org/wiki/August_von_Kotzebue
+    - https://en.wikipedia.org/wiki/August_von_Kotzebue
+description: ''
+gutenberg_issued: '2024-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73412'
+language: fi
+pgterms:marc905: 20240112021056kotzebue
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aKuopio :$bU. W. Telén & Co., $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'German drama -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Suorin tie paras : $b Yksinäytöksinen ilveily'
+url: http://www.gutenberg.org/ebooks/73412
