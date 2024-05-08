@@ -1,6 +1,9 @@
 _repo: Suorin-tie-paras-b-Yksinaytoksinen-ilveily_73412
 _version: 0.1.0
 alternative_title: Der gerade Weg der beste. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kotzebue, August von
@@ -17,6 +20,8 @@ creator:
     - https://de.wikipedia.org/wiki/August_von_Kotzebue
     - https://en.wikipedia.org/wiki/August_von_Kotzebue
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73412#Suorin-tie-paras-b-Yksinaytoksinen-ilveily
 gutenberg_issued: '2024-04-17'
 gutenberg_type: Text
 identifiers:
